@@ -11,8 +11,8 @@
 
 ## Dependências
 
-- express,
 - cors,
+- express,
 - sqlite3.
 
 ## Execução
